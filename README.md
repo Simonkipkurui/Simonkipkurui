@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## 👋 Hello, I’m Simon Kipkurui
+🌍 GIS & Remote Sensing Graduate | EO & AI for Climate Action | Open Data Enthusiast
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%"/>
 <!--
 **Simonkipkurui/Simonkipkurui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
